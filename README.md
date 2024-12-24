@@ -1,20 +1,16 @@
 # EduAssist
 
-Ask questions about your lecture in real time, chat with your lecture!
+**Real-time Q&A and Lecture Engagement**
 
-## Motivation
+My motivation was that students often misses key points during lectures, leading to confusion and missed opportunities. Asking questions in class can feel intimidating for shy pupils or disruptive. EduAssist solves this by offering:
 
-As a university student, it can be frustrating to disrupt a lecture just to ask a question, especially when it risks derailing the class or causing embarrassment if the question isn’t well-received. This project was created to address that issue. It enables students to inquire about the lecture content in real-time without causing interruptions. Additionally, it offers a live transcript of the lecture, ensuring that nothing is missed. The tool can also be leveraged later to generate notes and study materials.
+* Real-time Q&A to  discreetly ask questions about lecture content without interrupting the flow.
+* Live Transcript helps capture all information and ensure nothing is missed.
+* The tool can also be leveraged later to generate notes and study materials.
 
-## Key Features
+**Disclaimer**
 
-- Ask questions during lectures in real-time
-- Resolve doubts without disrupting anyone
-- Access a live transcript of the lecture
-
-### Disclaimer
-
-This is just for learning purpose, please don't refrain from asking doubts to your professor. They would love to solve them and teach you.
+EduAssist is designed to supplement, not replace, direct interaction with your professor. Open communication with your instructor is crucial for optimal learning. 
 
 ### Installation
 
